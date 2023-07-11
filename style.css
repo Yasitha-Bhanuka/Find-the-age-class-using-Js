@@ -1,0 +1,10 @@
+#inputBox{
+    display: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#msg{
+    display: absolute;
+    margin-left: 100px;
+    margin-top: 50px;
+}
